@@ -1,3 +1,10 @@
 take it easy
 TESTING WEBHOOK
 testiing 3.0
+ this will going to trigger:
+ >jenkins 
+ >docker
+
+all will depoly on EC2 server 
+ALL CONTROL FROM VS CODE
+ CI/CD
