@@ -8,3 +8,4 @@ testiing 3.0
 all will depoly on EC2 server 
 ALL CONTROL FROM VS CODE
  CI/CD
+ let's go 
